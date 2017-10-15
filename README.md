@@ -20,6 +20,6 @@
 ### 其他
 #### 修改WebBrowser控件的内核版本（默认使用了IE7兼容性模式来浏览网页）
 - 你可以通过设置注册表FEATURE_BROWSER_EMULATION 来实现
-- 在html头 加标签 强制使用最新的ie渲染 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-- 强制使用最新的ie8渲染<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8"/>
+- 在html头 加标签 强制使用最新的ie渲染```<meta http-equiv="X-UA-Compatible" content="IE=edge">```
+- 强制使用最新的ie8渲染```<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8"/>```
 
