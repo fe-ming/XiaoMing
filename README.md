@@ -22,6 +22,6 @@
 - 你可以通过设置注册表FEATURE_BROWSER_EMULATION 来实现
 - 在html头 加标签 强制使用最新的ie渲染```<meta http-equiv="X-UA-Compatible" content="IE=edge">```
 - 强制使用最新的ie8渲染```<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8"/>```
-### 效果图
-![](http://upload-images.jianshu.io/upload_images/2763951-d3022e2bf16950fa.gif?imageMogr2/auto-orient/strip)
+#### 效果图
+![GIF](http://upload-images.jianshu.io/upload_images/2763951-d3022e2bf16950fa.gif?imageMogr2/auto-orient/strip) 
 
