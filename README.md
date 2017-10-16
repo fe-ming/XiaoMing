@@ -23,5 +23,4 @@
 - 在html头 加标签 强制使用最新的ie渲染```<meta http-equiv="X-UA-Compatible" content="IE=edge">```
 - 强制使用最新的ie8渲染```<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8"/>```
 #### 效果预览
-[简书](http://www.jianshu.com/p/72a32ac3c65d) 
-
+[Chrome浏览器打开](http://www.jianshu.com/p/72a32ac3c65d) 
